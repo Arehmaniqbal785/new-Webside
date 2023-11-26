@@ -1,0 +1,265 @@
+.navbar {
+      background-image:url('imagesfolder/lin1.avif');
+   
+    font-size: x-small !important;
+    background-position: center;
+    background-size:cover;
+    background-repeat: no-repeat;
+    
+
+  
+}
+
+.card1,.card2,.card3,.card4,.card5,.card6,.card7,.card8,.card9,.card10{
+     
+    
+    box-shadow: 10px 10px 5px 2px gray;
+    border-bottom: none !important;
+    border: 10px solid gray;
+    border-radius: 20px;
+    margin-top: 10px;
+  
+    font-weight: bolder;
+    padding: 0%;
+    margin: 0%;
+    margin-top: 20px;
+    margin: 10px;
+    position: relative;
+    display: inline-block;
+    
+}
+.btn:hover{
+    background-color: rgb(232, 216, 128) !important;
+    font-weight:700 !important;
+    color:lightcyan;
+}
+.btn{
+    border:transparent ;
+}
+
+
+
+
+
+
+.mainCard{
+  justify-content: space-around;
+  display: flex;
+  flex-wrap: wrap;
+   
+   
+    
+   
+    /* margin-left: 200px;
+    margin-right: 200px;  */
+  
+    margin-top: 5px; 
+
+    
+}
+
+
+
+
+.LOCAL,.MAIN{
+margin-top:50px ;
+margin-bottom:10px;
+font-weight: bolder;
+color: rgb(92, 44, 44);
+
+}
+
+
+
+
+.nav-item,.nav-link{
+    font-weight:bolder ;
+    font-size: large;
+   color: rgb(51, 51, 168);
+  
+   margin-left: 3px;
+   margin-bottom: 10px;
+   text-align: center !important;
+  
+   
+}
+.userlink{
+    margin-left: 5px;
+    margin-bottom: 10px !important;
+}
+
+.col{
+    margin-top: 20px;
+    display: flex; 
+    font-weight: bolder;
+   /* margin-right: 20px;
+   margin-left:20px ; */
+   
+    height:360px;
+     width:265px;
+    
+    
+    border-radius: 20px;
+    margin-top: 10px;
+  
+    font-weight: bolder;
+    padding: 0%;
+   
+    
+       
+   
+ 
+   
+}
+
+/* .Arrivals{
+    margin-left: 50px;
+} */
+.Acontainer{
+   
+    
+
+    display: flex;
+    flex-direction: row;
+   
+    flex-wrap: wrap;
+  
+  
+    margin-top: 5px;
+}
+.verify:hover{
+    color:#00bcd4 !important;
+    
+}
+
+
+
+.footer{
+    
+    margin-top: 50px;
+    margin-bottom: 0% !important;
+    font-size: larger;
+    font-weight: bolder;
+    align-items: center;
+    
+}
+.footer{
+    background-color: goldenrod;
+    background-size: cover;
+    font-size: xx-large;
+    font-weight: lighter !important;
+   color: black;
+}
+.secfooter{
+    background-color: black;
+    color: azure;
+}
+
+.carousel {
+    margin-left: 80px;
+    margin-right: 80px;
+
+}
+
+.signuppage{
+    background-image:url('https://amateurphotographer.com/wp-content/uploads/sites/7/2023/03/dubai.jpg');
+    flex-wrap: wrap;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+
+
+button{
+    background-color: black;
+    color: antiquewhite;
+    border-radius: 10px;
+    border: 4px solid white;
+}
+
+
+/* 
+ul{
+    position: relative;
+    right: 120px;
+} */
+
+
+
+/*  
+.spam{
+    position: relative;
+    right: -70px;
+}  */
+
+
+
+
+
+
+.vmain{
+    background-image: url('lin1.avif');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+} 
+
+
+.ms-2{
+    font-size: xx-large;
+    font-weight: bolder;
+    margin-top: 50px;
+    color: rgb(237,190,69);
+}
+.ms-2>img{
+    margin-bottom: 10px;
+}
+
+
+
+
+
+
+/* @media only screen and (max-width: 600px) {
+    .col {
+      justify-content: center;
+    }
+  } */
+
+.footerIcon{
+    align-items: center;
+    text-align: end;
+ 
+
+    
+}
+
+.icn01{
+    margin-bottom: 40px;
+    margin-right: 20px;
+}
+
+.background{
+    background-color:black ;
+    color: wheat;
+
+}
+.text-footer{
+    text-align: center;
+    padding: 30px 0px;
+    font-family: 'ubuntu',sans-serif;
+    display: flex;
+    justify-content: center;
+    font-size: larger   ;
+
+}
+
+
+
+
+
+
+
